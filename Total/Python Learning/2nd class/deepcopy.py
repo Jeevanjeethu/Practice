@@ -1,0 +1,9 @@
+x=[1,2,3,4]
+y=x.copy()
+print(id(x))
+print(id(y))
+print(x)
+print(y)
+x.append(5)
+print(x)
+print(y)

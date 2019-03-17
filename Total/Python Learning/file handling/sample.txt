@@ -1,0 +1,16 @@
+Python Basics
+
+• Runtime Environment Setup, Git and GitHub Repository Setup
+• Linux Development Environment, Bash Commands, Linux File System, Navigating the
+terminal
+• Python Installation, Running Python Programs using Sublime / IDLE / nano
+• Programming Fundamentals: Introduction to python, Data Structures, File Operations,
+Iteration, Control flow, Functions and Functional Programming, Built In Functions, Classes
+and Class Organization
+• Best Practices: Keeping it simple, DRY code, naming conventions, comments and
+documentation
+• Python Standard Library (standard libraries typically include definitions for commonly used
+algorithms, data structures, and mechanisms for input and output)
+• Weekend: Python mini project: Well- documented Python module; (those are one to two-
+hour mini project which could be finished in class so that the students can discuss with peers
+and get feedback from the teacher/TA.)
